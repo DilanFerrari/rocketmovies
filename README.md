@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-O RocketNotes é um projeto empolgante desenvolvido no estágio 9 da trilha Explorer da Rocketseat. Nosso objetivo é criar um sistema simples, utilizando tecnologias modernas como React, Vite, React Router DOM, Styled Components e React Icons. 
+O RocketMovies é um projeto empolgante desenvolvido apenas pelo aluno no estágio 9 da trilha Explorer da Rocketseat. Nosso objetivo é criar um sistema simples, utilizando tecnologias modernas como React, Vite, React Router DOM, Styled Components e React Icons. 
 <br/><br/>
 Com o RocketNotes, aprendemos a trabalhar com o framework React, que nos proporciona uma estrutura eficiente e escalável para o desenvolvimento de interfaces de usuário interativas. Além disso, utilizamos o Vite como nosso bundler, que nos oferece um tempo de compilação rápido e uma experiência de desenvolvimento ágil.
 <br/><br/>
